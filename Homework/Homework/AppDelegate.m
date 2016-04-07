@@ -42,6 +42,7 @@
     
     
     ///sdhfihsdfhjkdshfkdsjkfhk
+    ///New changes
 }
 
 - (void)applicationDidBecomeActive:(UIApplication *)application {
