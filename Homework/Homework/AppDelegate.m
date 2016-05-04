@@ -35,6 +35,8 @@
     // If your application supports background execution, this method is called instead of applicationWillTerminate: when the user quits.
     
     //влыовоылдалдвыоалдодвы
+    
+    //dfgdfgdfg
 }
 
 - (void)applicationWillEnterForeground:(UIApplication *)application {
