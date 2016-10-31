@@ -28,6 +28,8 @@
     // Removed coments
     
     // Hura
+    
+    // Test 2
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
